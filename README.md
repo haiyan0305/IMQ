@@ -1,4 +1,4 @@
-# IMQ  
+# IMQ  ()
 
 (reference: https://psyarxiv.com/g2zm8/  and our theory paper: https://psyarxiv.com/ftgs3/)
 
@@ -26,3 +26,15 @@ wenjuanxing and using R to calculate the scores
 running Eprime and get the IMQ_SS, IMQ_SO, IMO_OS and total IMQ score automatically
 
 IMQ_CN.ebs
+
+
+## Japanese version 
+### option 1
+
+qualtrics and using R to calculate the scores
+
+
+### option 2
+running Eprime and get the IMQ_SS, IMQ_SO, IMO_OS and total IMQ score automatically
+
+IMQ_JP.ebs
