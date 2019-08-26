@@ -27,8 +27,11 @@ IMQ_EN.ebs
 ## Chinese version (validated by Haiyan Wu)
 ### option 1
 
-wenjuanxing and using R to calculate the scores
+wenjuanxing(wjx.com) and using R to calculate the scores
 
+IMQ_SO: 是自我推论他人心理状态的能力
+IMQ_OS: 是对于他人不能推论自己心理状态的自信
+IMQ_SS: 是社会交互中心理理论的元认知（自信程度）
 
 ### option 2
 running Eprime and get the IMQ_SS, IMQ_SO, IMO_OS and total IMQ score automatically
