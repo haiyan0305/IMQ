@@ -1,4 +1,4 @@
-# IMQ  ()
+# IMQ  (interactive mentalizing questionnaire)
 
 (reference: https://psyarxiv.com/g2zm8/  and our theory paper: https://psyarxiv.com/ftgs3/)
 
