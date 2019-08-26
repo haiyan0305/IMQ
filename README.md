@@ -1,4 +1,7 @@
-# IMQ  (reference: https://psyarxiv.com/g2zm8/  and our theory paper: https://psyarxiv.com/ftgs3/)
+# IMQ  
+
+(reference: https://psyarxiv.com/g2zm8/  and our theory paper: https://psyarxiv.com/ftgs3/)
+
 For different versions of  IMQ(haiyanwu3@gmail.com)
 
 ## English version 
