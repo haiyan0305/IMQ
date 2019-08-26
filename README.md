@@ -10,6 +10,14 @@ For different versions of  IMQ(haiyanwu3@gmail.com)
 qualtrics and using R to calculate the scores
 
 
+        #delete items 3 6  11 and  19
+        IMQdata <- IMQdata %>% dplyr::mutate(IMQ_OS = IMQ_16+IMQ_12+ IMQ_1+IMQ_8+IMQ_22+IMQ_15)
+        IMQdata <- IMQdata %>% dplyr::mutate(IMQ_SS = IMQ_2+IMQ_14+IMQ_17+IMQ_18+IMQ_20+IMQ_21+IMQ_24+IMQ_23)
+        IMQdata <- IMQdata %>% dplyr::mutate(IMQ_SO = IMQ_9+ IMQ_7 + IMQ_4+IMQ_5+IMQ_13+IMQ_10)
+        IMQdata <- IMQdata%>% dplyr::mutate(total_study1 =IMQ_OS+ IMQ_SS+IMQ_SO)
+
+
+
 ### option 2
 running Eprime and get the IMQ_SS, IMQ_SO, IMO_OS and total IMQ score automatically
 
