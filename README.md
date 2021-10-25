@@ -1,6 +1,7 @@
 # IMQ  (interactive mentalizing questionnaire)
 
-(reference: https://psyarxiv.com/g2zm8/  and our theory paper: https://psyarxiv.com/ftgs3/)
+(reference: https://psyarxiv.com/g2zm8/  
+and our theory paper: https://www.sciencedirect.com/science/article/pii/S0010945220300277)
 
 For different versions of  IMQ(haiyanwu3@gmail.com)
 
@@ -49,3 +50,8 @@ qualtrics and using R to calculate the scores
 running Eprime and get the IMQ_SS, IMQ_SO, IMO_OS and total IMQ score automatically
 
 IMQ_JP.ebs
+
+
+## references
+1. Wu, H., Fung, B. J., & mobbs, d. (2019, July 31). Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire. https://doi.org/10.31234/osf.io/g2zm8
+2. Wu, H., Liu, X., Hagan, C. C., & Mobbs, D. (2020). Mentalizing during social InterAction: A four component model. Cortex, 126, 242-252.
